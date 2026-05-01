@@ -23,3 +23,14 @@ Se ha implementado una estrategia de almacenamiento en caché mediante decorador
 
 3. Visualización de Datos
 El motor gráfico utiliza un renderizado interactivo que permite realizar operaciones de zoom, desplazamiento y lectura de datos puntuales (hover-tools). La interfaz ofrece versatilidad visual, permitiendo al usuario alternar entre modos de alto contraste (Oscuro), Claro o sincronización automática con el sistema operativo para garantizar legibilidad en cualquier entorno.
+
+Instalación y Configuración
+
+Clonar el repositorio: 
+```git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)```
+
+Instalar dependencias:
+```pip install -r requirements.txt```
+
+Iniciar aplicación: 
+```streamlit run monitor.py```
